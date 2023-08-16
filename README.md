@@ -19,7 +19,7 @@ Module Challenge to add lines of code to existing code to have a working applica
 
 ## Usage
 Go to the deployed application on heroku
-
+Hosted App on Heroku: https://damp-chamber-35606-bdf99c91d94f.herokuapp.com
 ## Contributing
 no idea
 
