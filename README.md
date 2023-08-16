@@ -25,6 +25,8 @@ Hosted App on Heroku: https://damp-chamber-35606-bdf99c91d94f.herokuapp.com
 no idea
 
 ## Tests
+![Screenshot 2023-08-16 020002](https://github.com/BLam1226/Note-Taker/assets/127125695/21225137-9ea9-4b47-88a6-931e7b1363d8)
+![Screenshot 2023-08-16 020041](https://github.com/BLam1226/Note-Taker/assets/127125695/f2f6090c-1c07-42b1-b82e-c656618e3d2d)
 
 ## License
 This project is licensed under the MIT License. Click the License Badge for details.
